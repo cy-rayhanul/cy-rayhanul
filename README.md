@@ -1,16 +1,34 @@
-## Hi there 👋
+![Profile views](https://komarev.com/ghpvc/?username=cy-rayhanul&style=flat&color=blue)
 
-<!--
-**cy-rayhanul/cy-rayhanul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on building strong programming fundamentals, problem-solving skills, and mastering C++ programming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Studying Computer Science & Engineering at Varendra University  
+- Skilled in C++ and programming logic  
+- Building skills step by step with discipline and consistency  
+
+---
+
+## Skills (Learning & Practicing)
+- C Programming
+- C++ (Intermediate / Advanced)  
+- Problem Solving  
+- Git & GitHub (Basics)
+
+---
+
+## Current Focus
+- Strengthening C++ fundamentals  
+- Writing clean, readable, and efficient code  
+- Practicing programming problems regularly  
+
+---
+
+## Contact
+- Email: cy.rayhanul@gmail.com  
+
+---
+
+# Consistency beats motivation.  
